@@ -3,7 +3,7 @@
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="https://eliyasblogs.vercel.app/" target="_blank">eliyasblogs.vercel.app</a>
+  <a href="https://eliyasblog.vercel.app/" target="_blank">eliyasblog.vercel.app</a>
 </h2>
 
 <div align="center">
@@ -74,5 +74,3 @@ To write your own blogs create a markdown file in `_content` folder with the spe
 ### Show your support
 
 Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/pinocchio-life-like" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
