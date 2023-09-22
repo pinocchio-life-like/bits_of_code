@@ -1,7 +1,5 @@
 ## Eliyas_Blog
 
-## Writing own blogs made easier for everyone!
-
 <h2 align="center">
   <a href="https://eliyasblog.vercel.app/" target="_blank">eliyasblog.vercel.app</a>
 </h2>

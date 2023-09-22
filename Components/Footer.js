@@ -9,9 +9,9 @@ function Footer() {
       <div className="bg-indigo-600 dark:bg-indigo-900">
         <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
           <p className="text-gray-50 text-sm text-center sm:text-left">
-            © {year} Bits-Of-C0de —
+            © {year} Bits Of Programming —
             <a
-              href="https://twitter.com/pinocchio-life-like"
+              href="https://github.com/pinocchio-life-likee"
               rel="noopener noreferrer"
               className="text-gray-50 ml-1"
               target="_blank"
@@ -20,14 +20,14 @@ function Footer() {
             </a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
-            <a
+            {/* <a
               className="text-gray-50"
               href="https://twitter.com/pinocchio-life-like"
               rel="noopener noreferrer"
               target="_blank"
             >
               <SiTwitter />
-            </a>
+            </a> */}
             <a
               className="ml-4 text-gray-50"
               href="https://github.com/pinocchio-life-like"
@@ -36,17 +36,17 @@ function Footer() {
             >
               <SiGithub />
             </a>
-            <a
+            {/* <a
               className="ml-4 text-gray-50"
               href="https://www.instagram.com/pinocchio-life-like/"
               rel="noopener noreferrer"
               target="_blank"
             >
               <SiInstagram />
-            </a>
+            </a> */}
             <a
               className="ml-4 text-gray-50"
-              href="https://www.linkedin.com/in/pinocchio-life-like/"
+              href="https://www.linkedin.com/in/eliyas-asefa-4a95221b9/"
               rel="noopener noreferrer"
               target="_blank"
             >
